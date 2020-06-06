@@ -1,4 +1,4 @@
-# Frequentist-Statistics
+# Frequentist Statistics
 
 The following list includes the topics that these two mini-projects cover:
 
